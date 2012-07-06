@@ -1,5 +1,0 @@
-D:\Document\Visual Studio 2008\Projects\KSIM\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\Document\Visual Studio 2008\Projects\KSIM\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\Document\Visual Studio 2008\Projects\KSIM\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
-D:\Document\Visual Studio 2008\Projects\KSIM\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\Document\Visual Studio 2008\Projects\KSIM\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
